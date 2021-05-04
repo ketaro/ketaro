@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ketaro/ketaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/ketaro/ketaro/main/github-header.png" />
+
+## Recent Projects
+
+* [Otakon's Website](https://otakon.com)
+* [Volunteer Management](https://hakaru.org/)
